@@ -1,0 +1,5 @@
+Identitas Diri
+Nama : Indiarto Aji Begawan
+Email : indiartoaji13@gmail.com
+Learning Path : Belajar Pengembangan Machine Learning
+Materi : Proyek Pertama - Membuat Model NLP dengan TensorFlow
